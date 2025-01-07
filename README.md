@@ -48,3 +48,4 @@ python main.py
 - **Email:** aneesmohamed113@gmail.com
 - **LinkedIn:** [linkedin.com/in/anees-mohamed-ar](https://www.linkedin.com/in/anees-mohamed-ar)
 - **GitHub:** [github.com/anees-mohamed-ar](https://github.com/anees-mohamed-ar)
+- **Instagram:** [instagram.com/anees_a_r__](https://instagram.com/anees_a_r__)
